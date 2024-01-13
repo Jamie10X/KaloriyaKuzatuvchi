@@ -15,3 +15,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "Kaloriya kuzatuvchi"
 include(":app")
+include(":onboarding")
+include(":core")
+include(":tracker")
+include(":onboarding:presentation")
+include(":onboarding:domain")
+include(":tracker:data")
+include(":tracker:domain")
+include(":tracker:presentation")
